@@ -3,3 +3,4 @@ dev
 dev2
 devv2
 devv3
+master
